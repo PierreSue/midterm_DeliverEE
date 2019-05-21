@@ -13,6 +13,7 @@ $ 使用說明:
     * cd frontend && npm install (./midterm_DeliverEE/frontend)
     * cd backend && npm install (./midterm_DeliverEE/backend)
     * npm start (./midterm_DeliverEE/)
+    * localhost:3000
 
 $ 操作方式：負責管理的人可以自由地增加餐點項目，並可以在Cart關注目前的訂購情況，
   其他人可以利用'Add to Cart'進行訂購，可以藉由給定的filter進行選擇，更可以按照價格進行排序。
@@ -20,6 +21,7 @@ $ 操作方式：負責管理的人可以自由地增加餐點項目，並可以
 
 ## 其他說明(操作影片)：
 $ [link](https://github.com/PierreSue/midterm_DeliverEE/blob/master/Demo.wmv?raw=true)
+$ Or directly watch './midterm_DeliverEE/Demo.wmv'
 
 ## 使用與參考之框架/模組/原始碼
 ```
