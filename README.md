@@ -25,7 +25,7 @@ $ watch : [link](https://github.com/PierreSue/midterm_DeliverEE/blob/master/Demo
 
 ## 使用與參考之框架/模組/原始碼
 ```
-$ scss的部分：參考 [link](https://github.com/jeffersonRibeiro/react-shopping-cart)
+$ scss的部分：參考(https://github.com/jeffersonRibeiro/react-shopping-cart)
 $ 其他部分及演算法邏輯都自己完成
 ```
 
