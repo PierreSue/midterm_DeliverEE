@@ -12,7 +12,7 @@ $ 使用說明:
     * npm install
     * cd frontend/backend
     * npm install
-    
+
 $ 操作方式：負責管理的人可以自由地增加餐點項目，並可以在Cart關注目前的訂購情況，其他人可以利用'Add to Cart'進行訂購，可以藉由給定的filter進行選擇，更可以按照價格進行排序。
 ```
 
@@ -22,15 +22,20 @@ $ [link](https://github.com/PierreSue/midterm_DeliverEE/blob/master/Demo.wmv?raw
 ## 使用與參考之框架/模組/原始碼
 ```
 $ scss的部分：參考 [link](https://github.com/jeffersonRibeiro/react-shopping-cart)
-$ 其他部分都自己完成
+$ 其他部分及演算法邏輯都自己完成
 ```
 
 ## 我的貢獻
 ```
-$ Client-side programs in React.js
-$ Server-side programs in Node.js
-$ DataBase in MongoDB
-$ 
-$ Frontend side uses redux to handle states
-$ 
+$ Code
+    * Client-side programs in React.js
+    * Server-side programs in Node.js
+    * DataBase in MongoDB
+    * Frontend side uses redux to handle states
+$ Function
+    * 可以增加新的餐點並增加到資料庫
+    * 可以刪除餐點並更新到資料庫
+    * 可以用filter來選擇有興趣的餐點
+    * 可以用Ordered by 來排序
+    * 可以用購物車看目前訂購狀況
 ```
