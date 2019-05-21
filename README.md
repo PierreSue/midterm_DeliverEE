@@ -20,12 +20,8 @@ $ 操作方式：負責管理的人可以自由地增加餐點項目，並可以
 ```
 
 ## 其他說明(操作影片)：
-<<<<<<< HEAD
 $ [link](https://github.com/PierreSue/midterm_DeliverEE/blob/master/Demo.wmv?raw=true)
 $ Or directly watch './midterm_DeliverEE/Demo.wmv'
-=======
-$ [link](https://github.com/PierreSue/midterm_DeliverEE/blob/master/Demo.wmv?raw=true)(./midterm_DeliverEE/Demo.wmv)
->>>>>>> dfd2f75a4b9cd415938925e1ddca32932e579c05
 
 ## 使用與參考之框架/模組/原始碼
 ```
