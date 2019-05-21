@@ -32,7 +32,8 @@ $ 其他部分及演算法邏輯都自己完成
 $ Codes
     * Client-side programs in React.js
     * Server-side programs in Node.js
-    * DataBase in MongoDB
+    * Database(MongoDB) to store persistent data
+    * Use "Promise" to ensure asynchronous non-blocking communications
     * Frontend side uses redux to handle states
 $ Services
     * 可以增加新的餐點並增加到資料庫(圖片需先放到Image資料夾中)
