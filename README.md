@@ -29,12 +29,12 @@ $ 其他部分及演算法邏輯都自己完成
 
 ## 我的貢獻
 ```
-$ Code
+$ Codes
     * Client-side programs in React.js
     * Server-side programs in Node.js
     * DataBase in MongoDB
     * Frontend side uses redux to handle states
-$ Function
+$ Services
     * 可以增加新的餐點並增加到資料庫
     * 可以刪除餐點並更新到資料庫
     * 可以用filter來選擇有興趣的餐點
